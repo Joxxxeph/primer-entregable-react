@@ -1,0 +1,50 @@
+.app {
+  background-size: cover;
+  background-position: center;
+}
+
+.app.img1 {
+  background-image: url(/img1.jpg);
+}
+.app.img2 {
+  background-image: url(/img2.jpeg);
+}
+.app.img3 {
+  background-image: url(/img3.webp);
+}
+.app.img4 {
+  background-image: url(/img4.jpg);
+}
+.app.img5 {
+  background-image: url(/img5.jpg);
+}
+.app.img6 {
+  background-image: url(/img6.jpg);
+}
+.app.img7 {
+  background-image: url(/img7.jpg);
+}
+.app.img8 {
+  background-image: url(/img8.jpg);
+}
+.app.img9 {
+  background-image: url(/img9.jpg);
+}
+.app.img10 {
+  background-image: url(/img10.jpg);
+}
+.app.img11 {
+  background-image: url(/img11.jpg);
+}
+.app.img12 {
+  background-image: url(/img12.jpg);
+}
+.app.img13 {
+  background-image: url(/img13.jpg);
+}
+.app.img14 {
+  background-image: url(/img14.webp);
+}
+.app.img15 {
+  background-image: url(/img15.jpg);
+}
